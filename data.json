@@ -1,0 +1,53 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Node Course",
+            "author": "Carlos Hudson",
+            "topic": "javascript",
+            "url": "http://carloshudson.com"
+        },
+        {
+            "id": 2,
+            "title": "PHP Course",
+            "author": "Carlos Hudson",
+            "topic": "javascript",
+            "url": "http://carloshudson.com"
+        },
+        {
+            "id": 3,
+            "title": "Python Course",
+            "author": "Carlos Hudson",
+            "topic": "python",
+            "url": "http://carloshudson.com"
+        },
+        {
+            "id": 4,
+            "title": "Java Course",
+            "author": "Carlos Hudson",
+            "topic": "java",
+            "url": "http://carloshudson.com"
+        },
+        {
+            "id": 5,
+            "title": "Go Course",
+            "author": "Carlos Hudson",
+            "topic": "go",
+            "url": "http://carloshudson.com"
+        },
+        {
+            "id": 6,
+            "title": ".NET Course",
+            "author": "Carlos Hudson",
+            "topic": "net",
+            "url": "http://carloshudson.com"
+        },
+        {
+            "id": 7,
+            "title": "Angular Course",
+            "author": "Carlos Hudson",
+            "topic": "angular",
+            "url": "http://carloshudson.com"
+        }
+    ]
+}
